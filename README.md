@@ -50,3 +50,12 @@ Political campaigns and analysts struggle with accurately assessing **public sen
 ### 🔷 Investigate Ethical & Social Implications Further:
 - Study the impact of **echo chambers and misinformation** on public opinion formation.
 - Propose regulatory measures to **prevent misuse of social media data in political campaigns**.
+
+## 💻 Technologies & Tools Used
+- **Programming & Data Analysis**: Python (Pandas, NumPy, Scikit-Learn, NLP Libraries).
+- **Machine Learning Models**: Random Forest, Sentiment Analysis Models.
+- **Data Processing & Visualization**: SQL, Tableau, Matplotlib, Seaborn.
+- **Research Framework**: Mixed Methods (Quantitative + Qualitative).
+
+## 🔑 Key Takeaways
+This project demonstrates how **machine learning and social media analytics** can improve **political sentiment analysis and election forecasting**. By combining **quantitative sentiment analysis** with **qualitative thematic analysis**, political campaigns can **better understand voter behavior** and **optimize their messaging strategies**.
